@@ -36,4 +36,7 @@ function DataFetching() {
 	)
 }
 
+
+
+
 export default DataFetching
